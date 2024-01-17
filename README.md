@@ -1,2 +1,3 @@
-# Acme-Software-Lab
-Acme lab project
+#ACME Software lab.
+ACME Software Lab is a training and consulting company specializing in Computer Proficiency, Data Science, Machine Learning, Artificial Intelligence, Website Design, Mobile Application Development, Game Design, Graphics Design, UI/UX, Product Management, Networking, Ethical Hacking. We offer a range of services, including customized training programs, consulting, and project development for individuals and organizations.
+Our team consists of experienced professionals who are well-versed in various tools and technologies. We believe that technology is a powerful tool that can help organisations drive growth. Our mission is to empower individuals and organisations to harness the power of  (Information Technology)  IT. 
